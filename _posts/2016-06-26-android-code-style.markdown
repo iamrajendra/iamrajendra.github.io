@@ -15,6 +15,7 @@ Code  convection is very important for developers. It helps developers to write 
 The variable name should be meaningful and sound good. It should be in camalCase. non-public and nonstatic variable should start with lower letter m.  where static and public variable start with lower letter s. 
 
 ### Constant name
+
 It should be upper letter and  separated by underscores. a constant name should be meaningful and sounds good.
 
 
@@ -56,12 +57,12 @@ use proper annotation, like @override , @Dprecated etc .  If there are multi ann
 
 XMLHTTPRequest is wrong, it should be XmlHttpRequest. 
 
-## Use   ToDO Comments 
+## Use   Todo Comments 
 
 Use Todo comments for code that is temporary , a short term solution or good enough but not perfect. 
 
 
-For future toTodo 
+For future Todo 
 write particular date of change  or a very specific event. 
 
 

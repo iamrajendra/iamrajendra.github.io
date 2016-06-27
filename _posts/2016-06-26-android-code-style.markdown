@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Android  Code Style
 layout: post
 ---
@@ -63,9 +63,4 @@ Use Todo comments for code that is temporary , a short term solution or good eno
 
 
 For future Todo 
-write particular date of change  or a very specific event. 
-
-
-
-
-
+write particular date of change  or a very specific event.
